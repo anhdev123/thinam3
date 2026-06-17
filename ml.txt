@@ -2,3 +2,7 @@ https://colab.research.google.com/drive/1H6XoUQEQzGfWAMUljiBgzgdYyjdlnBOA?usp=sh
 
 sql
 https://drive.google.com/drive/folders/1966FpE0Vq_obAHTkBLyC-3WXGn8agqJT?usp=sharing
+
+
+phân tích hồi quy
+https://colab.research.google.com/drive/1u39ZmbVSBDS5ATtO4MedttG9mhz5CgOS?usp=sharing
